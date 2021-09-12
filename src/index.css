@@ -9,8 +9,7 @@ main {
   --secondary: #F3A847;
   --tertiary: #B12704;
   --light: #fafafa;
-  /* BURGUNDY COLOR */
-  --dark: #3b1313;
+  --dark: #0e0253;
   --darker: #fa0404;
   --error: rgb(228, 46, 1);
   --spacing-one: calc(1rem * 0.5);
@@ -59,6 +58,8 @@ h1 {
 
 h2 {
   font-size: 2rem;
+  margin-top: 10px;
+  margin-left: 10px;
 }
 
 h3 {
@@ -93,7 +94,8 @@ a:hover {
 }
 
 header {
-  background: var(--dark);
+  background: #006699;
+  padding: auto;
 }
 
 header a {
