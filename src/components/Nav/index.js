@@ -8,12 +8,12 @@ function Nav() {
 
     const categories = [
         {
-            name: "Portfolio",
+            name: "portfolio",
             description:
                 "Screenshoots of the functional developed webpages",
         },
         {
-            name: "Resume",
+            name: "resume",
             description: "Click on the image to download resume for more details about me"
         },
     ];
