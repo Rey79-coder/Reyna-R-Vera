@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import Nav from './components/Nav';
 import About from './components/About';
 import Portfolio from "./components/Portfolio";
+// import PhotoList from "./components/PhotoList";
 
 
 
@@ -14,7 +15,7 @@ function App() {
         },
         {
             name: "resume",
-            description: "Click on the image to download resume for more details about me"
+            description: "Click on the image to download resume for more details about me",
         },
     ]);
 
@@ -28,8 +29,8 @@ function App() {
                 currentCategory={currentCategory}
         ></Nav>
         <main>
-          <Portfolio></Portfolio>
           <About></About>
+          <Portfolio currentCategory={currentCategory}></Portfolio>
         </main>
       </div>
     );
