@@ -3,6 +3,7 @@ main {
 	margin: 0 auto;
 	max-width: 90%;
   padding: 50px 30px;
+  justify-content: center;
 }
 :root {
   --primary: #5a585f;
@@ -295,4 +296,16 @@ a {
 
 .navActive {
   color: var(--secondary);
+}
+
+.myFooter {
+  margin: 0;
+  background: #006699;
+  padding: 15px;
+  
+}
+
+.myName {
+  text-align: center;
+  color: var(--light);
 }

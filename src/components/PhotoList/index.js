@@ -7,7 +7,7 @@ const PhotoList = ({ category }) => {
         {
             name: 'echeriri.com',
             category: 'portfolio',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie',
+            link: 'http://echeriri.com/',
         },
         {
             name: 'gineerblog',
@@ -42,6 +42,7 @@ const PhotoList = ({ category }) => {
         <div>
           <div className="flex-row">
             {currentPhotos.map((image, i) => (
+                
               <img
 
                 src={require(`../../assets/${category}/${i}.png`).default}
@@ -53,7 +54,9 @@ const PhotoList = ({ category }) => {
             ))}
           </div>
         </div>
+        
       );
     };
+
 
 export default PhotoList;

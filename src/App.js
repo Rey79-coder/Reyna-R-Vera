@@ -3,6 +3,8 @@ import Nav from './components/Nav';
 import About from './components/About';
 import Portfolio from "./components/Portfolio";
 import ContactForm from './components/Contact';
+import Resume from './components/Resume';
+
 
 // import PhotoList from "./components/PhotoList";
 
@@ -38,11 +40,21 @@ function App() {
                     <>
                         <About></About>
                         <Portfolio currentCategory={currentCategory}></Portfolio>
+                        <Resume></Resume>
+
                     </>
                 ) : (
                     <ContactForm></ContactForm>
                 )}
+                <footer class="myFooter">
+
+                        <p class="myName">- 2021 Reyna Ramirez Vera -</p>
+
+                </footer>
+
+
             </main>
+
         </div>
     );
 }

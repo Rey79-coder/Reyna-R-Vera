@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Resume component matches snapshot DOM node structure 1`] = `
+<DocumentFragment>
+  <section
+    class="my-5"
+  >
+    <button>
+      <a
+        alt="View complete resume"
+        class="text-email"
+        href="https://drive.google.com/file/d/1gOhCSv_aArqI2zmdvf0uQGZld0rRFNkG/view?usp=sharing"
+        id="resume"
+        rel="noreferrer"
+        target="_blank"
+      >
+        <img
+          alt="resume"
+          class="my-2"
+          href="#resume"
+          src="resume-image.png"
+          style="width: 100%;"
+        />
+      </a>
+    </button>
+  </section>
+</DocumentFragment>
+`;
