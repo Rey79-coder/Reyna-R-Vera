@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <section>
+    <h1
+      data-testid="h1tag"
+    >
+      Portfolio
+    </h1>
+    <p>
+      Samples of the webpages I have developed
+    </p>
+    <div>
+      <div
+        class="flex-row"
+      >
+        <img
+          alt="echeriri.com"
+          class="img-thumbnail mx-1"
+        />
+        <img
+          alt="gineerblog"
+          class="img-thumbnail mx-1"
+        />
+        <img
+          alt="portfolio generator"
+          class="img-thumbnail mx-1"
+        />
+        <img
+          alt="pizza hunt"
+          class="img-thumbnail mx-1"
+        />
+        <img
+          alt="taskinator"
+          class="img-thumbnail mx-1"
+        />
+        <img
+          alt="echeriri.1.0"
+          class="img-thumbnail mx-1"
+        />
+      </div>
+    </div>
+  </section>
+</DocumentFragment>
+`;
