@@ -17,13 +17,13 @@
 ## Installation:
     You need to install React in order to run it.
 ## Usage:
-    Go to https://github.com/Rey79-coder/Reyna-R-Vera and get to know me a bit more.
+    Go to http://Rey79-coder.github.io/reyna-r-vera and get to know me a bit more.
 ## Licenses:
     Apache,MCT,ISC,GNU GPLv3
 ## Contribution:
     Contact me first.
 ## Link:
-    https://github.com/Rey79-coder/Reyna-R-Vera
+    http://Rey79-coder.github.io/reyna-r-vera
 ## Questions:
     Should I combine the portfolio with my design samples?
 ## email:
