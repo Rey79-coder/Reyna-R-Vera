@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reyna-r-vera/static/css/main.2a825346.chunk.css",
-    "main.js": "/reyna-r-vera/static/js/main.f9571c3d.chunk.js",
-    "main.js.map": "/reyna-r-vera/static/js/main.f9571c3d.chunk.js.map",
+    "main.js": "/reyna-r-vera/static/js/main.ee92dfbd.chunk.js",
+    "main.js.map": "/reyna-r-vera/static/js/main.ee92dfbd.chunk.js.map",
     "runtime-main.js": "/reyna-r-vera/static/js/runtime-main.6418b325.js",
     "runtime-main.js.map": "/reyna-r-vera/static/js/runtime-main.6418b325.js.map",
     "static/js/2.def3a828.chunk.js": "/reyna-r-vera/static/js/2.def3a828.chunk.js",
@@ -17,7 +17,7 @@
     "static/media/2.png": "/reyna-r-vera/static/media/2.146dafd0.png",
     "static/media/3.png": "/reyna-r-vera/static/media/3.a126a475.png",
     "static/media/4.png": "/reyna-r-vera/static/media/4.3fc1bd7b.png",
-    "static/media/5.png": "/reyna-r-vera/static/media/5.a5c215dd.png",
+    "static/media/5.png": "/reyna-r-vera/static/media/5.c63b2e7c.png",
     "static/media/cover-image.png": "/reyna-r-vera/static/media/cover-image.9251adae.png",
     "static/media/resume-image.png": "/reyna-r-vera/static/media/resume-image.81166a10.png"
   },
@@ -25,6 +25,6 @@
     "static/js/runtime-main.6418b325.js",
     "static/js/2.def3a828.chunk.js",
     "static/css/main.2a825346.chunk.css",
-    "static/js/main.f9571c3d.chunk.js"
+    "static/js/main.ee92dfbd.chunk.js"
   ]
 }
