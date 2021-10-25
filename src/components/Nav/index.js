@@ -23,7 +23,7 @@ function Nav(props) {
 
 
             <h2>
-                <a data-testid="link" href="/">
+                <a data-testid="link" href="/reyna-r-vera">
                     <span role="img" aria-label="cool">😎</span>Reyna R Vera
                 </a>
             </h2>
